@@ -28,7 +28,7 @@ Notice: Xray will NOT log to `/var/log/xray/*.log` by default. Configure `"log"`
 bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release.sh)" @ install
 ```
 
-**Update geoip.dat and geosite.dat only**
+**Update geoip.dat and geosite.dat only***
 
 ```
 bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release.sh)" @ install-geodata
